@@ -12,10 +12,8 @@ This is a fork of "Platformer Saves" by 0x5abe to see if I can port this mod int
 
 ## Planned features
 
-- Multiple save slots
-- Cloud saves
-- Better UI
-- Android/Mac support
+- Port PlatformerSaves into 2.207
+
 
 ## Report a bug
 
