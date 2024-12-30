@@ -9,7 +9,7 @@ PlatformerSaves is a Geometry Dash mod for [Geode](https://geode-sdk.org/) that 
 
 ## Note
 
-This is a fork of "Platformer Saves" by 0x5abe to see if I can port this mod into 2.207 and then I will delete this and do a PR.
+This is a fork of "Platformer Saves" by 0x5abe to see if I can port this mod into 2.207 and then I will do a PR. (pull request)
 
 ## Planned features
 
