@@ -15,10 +15,6 @@ This is a fork of "Platformer Saves" by 0x5abe to see if I can port this mod int
 - Port PlatformerSaves into 2.207
 
 
-## Report a bug
-
-You can report a bug by [creating an issue](https://github.com/0x5abe/PlatformerSaves/issues/new)
-
 ## Credits
 
 - The Geode team for the amazing tool they've created and inspiring me to make GD mods
