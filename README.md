@@ -13,7 +13,7 @@ This is a fork of "Platformer Saves" by 0x5abe to see if I can port this mod int
 
 ## Planned features
 
-- Port PlatformerSaves into 2.207
+- Port PlatformerSaves into Geometry Dash 2.207
 
 
 ## Credits
